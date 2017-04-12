@@ -1,0 +1,7 @@
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\obj\Debug\Loja.DTO.pdb
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\bin\Debug\Loja.ClasseLibrary.dll
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\bin\Debug\Loja.ClasseLibrary.pdb
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.DTO\obj\Debug\Loja.DTO.csprojResolveAssemblyReference.cache
