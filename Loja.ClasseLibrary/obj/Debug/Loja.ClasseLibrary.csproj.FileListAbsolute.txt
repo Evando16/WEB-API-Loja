@@ -1,0 +1,4 @@
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.ClasseLibrary\bin\Debug\Loja.ClasseLibrary.dll
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.ClasseLibrary\bin\Debug\Loja.ClasseLibrary.pdb
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.ClasseLibrary\obj\Debug\Loja.ClasseLibrary.dll
+C:\Users\evando\Desktop\.Net Training\EF 6 AWProduct\Loja\Loja.ClasseLibrary\obj\Debug\Loja.ClasseLibrary.pdb
